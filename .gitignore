@@ -1,0 +1,14 @@
+# Local publication controls. These files remain on the seller machine.
+PUBLISH_SALE_SITE.md
+PRE_PUBLICATION_AUDIT.md
+
+# Never publish local runtime or secret files.
+.env
+.env.*
+!.env.example
+node_modules/
+dist/
+coverage/
+logs/
+local-data/
+*.log
