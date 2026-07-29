@@ -72,6 +72,7 @@ h1 { max-width: 800px; margin-bottom: 18px; font-size: clamp(54px, 9vw, 108px); 
 .price-lockup { margin-top: 56px; display: flex; align-items: baseline; gap: 18px; flex-wrap: wrap; }
 .price-lockup strong { font-size: clamp(32px, 5vw, 54px); letter-spacing: 0; }
 .price-lockup span { color: #cad8dd; }
+.price-lockup small { flex-basis: 100%; color: #9db6c0; font-size: 14px; }
 
 .proof-strip { background: #e8f3f5; color: #06202a; }
 .proof-grid { min-height: 118px; display: grid; grid-template-columns: repeat(4, 1fr); gap: 0; }
