@@ -8,9 +8,9 @@ source code, secrets, tokens, or a seller account.
 ## Public repository contents
 
 The public repository contains the landing HTML, technical buyer brief, CSS,
-JavaScript, sale configuration, commercial README, and public media assets
-only. Local publishing instructions and publication audits remain ignored by
-Git.
+JavaScript, sitemap, robots policy, sale configuration, commercial README, and
+public media assets only. Local publishing instructions and publication audits
+remain ignored by Git.
 
 ## Contact configuration
 
